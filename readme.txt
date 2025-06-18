@@ -1,4 +1,4 @@
 welcome to my first project
 
-Author: Thomas
+Author: Thomas tttttt
 twitter: @thomas22
