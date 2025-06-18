@@ -1,5 +1,4 @@
 welcome to my first project
 
 Author: Thomas
-
-Twittwer: @thomspppp
+twitter: @thomas22
