@@ -1,4 +1,4 @@
-welcome to my first project
+welcome to my "git project"
 
 Author: Thomas tttttt huber
 
